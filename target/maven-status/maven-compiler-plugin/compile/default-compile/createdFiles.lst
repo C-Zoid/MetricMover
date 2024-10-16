@@ -1,0 +1,5 @@
+com/appdynamics/tools/metricmover/Metric.class
+com/appdynamics/tools/metricmover/Mover.class
+com/appdynamics/tools/metricmover/InfluxDBMover.class
+com/appdynamics/tools/metricmover/ElasticsearchMover.class
+com/appdynamics/tools/metricmover/Runner.class
